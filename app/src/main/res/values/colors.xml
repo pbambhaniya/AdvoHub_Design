@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303F52</color>
+    <color name="colorPrimaryDark">#303F52</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorBgPage">#EFEFEF</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorBlack">#000</color>
+    <color name="yellow">#FFFF00</color>
+
+
+    <color name="colorGreen">#008000</color>
+    <color name="colorTextHint">#8B8B8B</color>
+</resources>
